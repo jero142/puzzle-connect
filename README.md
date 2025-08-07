@@ -17,7 +17,6 @@ Tech Stack
 - **React**
 - **Sass**
 - **JavaScript**
-- No external libraries or APIs — built entirely from scratch
 
 Author
 
