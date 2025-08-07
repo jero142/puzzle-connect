@@ -15,7 +15,7 @@ Gameplay Features
 Tech Stack
 
 - **React**
-- **SCSS**
+- **Sass**
 - **JavaScript**
 - No external libraries or APIs — built entirely from scratch
 
@@ -23,4 +23,4 @@ Author
 
 Jerome Collombier
 
-Frontend Developer
+Front-End Developer
