@@ -15,7 +15,7 @@ Gameplay Features
 Tech Stack
 
 - **React**
-- **Sass**
+- **SCSS**
 - **JavaScript**
 
 Author
