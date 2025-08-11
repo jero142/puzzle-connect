@@ -256,7 +256,7 @@ const WordPuzzle = () => {
               ))}
             </h1>
             <p className="start-hint">
-              Click the letters in the correct order to reveal the mystery word.
+            Solve the riddle and click the letters in the correct order to reveal the mystery word.
             </p>
             <button className="start-game" onClick={handleStartGame}>
               Start Game
